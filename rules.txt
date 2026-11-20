@@ -1,2 +1,2 @@
-quantity >= 0
+quantity > 0
 payment_method = CASH
