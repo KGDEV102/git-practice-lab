@@ -2,3 +2,4 @@ quantity > 0
 payment_method = CASH
 max_quantity = 100
 default_status = PENDING
+card_payment = ENABLED
