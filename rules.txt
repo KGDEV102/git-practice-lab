@@ -5,3 +5,4 @@ default_status = PENDING
 card_payment = ENABLED
 delivery_fee = 30000
 express_shipping = ENABLED
+express_delivery_days = 2
