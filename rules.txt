@@ -3,3 +3,4 @@ payment_method = CASH
 max_quantity = 100
 default_status = PENDING
 card_payment = ENABLED
+delivery_fee = 30000
