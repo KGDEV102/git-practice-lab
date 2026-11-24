@@ -10,3 +10,4 @@ Repository dùng để thực hành Git remote.
 
 Hỗ trợ cấu hình phí giao hàng.
 
+Hỗ trợ phương thức giao hàng nhanh.
