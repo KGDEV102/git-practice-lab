@@ -13,3 +13,5 @@ Hỗ trợ cấu hình phí giao hàng.
 Hỗ trợ phương thức giao hàng nhanh.
 
 Hỗ trợ cấu hình giảm giá đơn hàng.
+
+Mức giảm giá tối đa là 20%.

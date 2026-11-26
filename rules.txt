@@ -7,3 +7,5 @@ delivery_fee = 30000
 express_shipping = ENABLED
 express_delivery_days = 2
 discount = ENABLED
+discount_type = PERCENTAGE
+max_discount_percent = 20
